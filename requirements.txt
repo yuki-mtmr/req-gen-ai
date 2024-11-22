@@ -1,0 +1,15 @@
+langchain-core==0.3.0
+langchain-openai==0.2.0
+langchain-community==0.3.0
+langgraph==0.2.22
+langgraph-checkpoint==1.0.12
+GitPython==3.1.43
+langchain-chroma==0.1.4
+chromadb==0.5.3
+ragas==0.1.14
+nest-asyncio==1.6.0
+tavily-python==0.5.0
+langchain-cohere==0.3.0
+rank-bm25==0.2.2
+python-dotenv==0.21.0
+
